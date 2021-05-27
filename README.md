@@ -1,6 +1,6 @@
 # Domótica            
 ~~~
- Desde o princípio o ser humano busca novas formas de gastar menos energia, seja 
+    Desde o princípio o ser humano busca novas formas de gastar menos energia, seja 
 para obter alimentos , moradia ou proteção.Dessa forma desenvolveu a agricultura a 
 pecuária e ferramentas que permitiram produzir mais com menos, o próximo passo nesse 
 processo será a otimização do seu tempo,deixando pra gastar com aquilo que é realmente 
